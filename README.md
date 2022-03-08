@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AhmedAltahan
-- 👀 I’m interested in ...
+- 👀 I’m interested in MERN Stack
 - 🌱 I’m currently learning Web developer & Spanish
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Twitter : @ahmedaltahan61
+<!--- 💞️ I’m looking to collaborate on ...--->
 
 <!---
 AhmedAltahan/AhmedAltahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
